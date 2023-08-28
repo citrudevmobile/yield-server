@@ -1,5 +1,5 @@
 # DefiLlama APY Server
-
+# https://www.educative.io/answers/how-to-install-nodejs-on-ubuntu
 ## How to list a new protocol
 
 1. Make sure you are listed on defillama's TVL page (see https://github.com/DefiLlama/DefiLlama-Adapters)
